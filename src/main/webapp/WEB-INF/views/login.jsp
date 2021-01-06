@@ -7,6 +7,6 @@
 <title>home</title>
 </head>
 <body>
-	Hello Java
+	회원가입
 </body>
 </html>
