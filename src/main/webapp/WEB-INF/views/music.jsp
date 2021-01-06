@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>home</title>
+<title>Insert title here</title>
 </head>
 <body>
-	Hello Java
+
 </body>
 </html>
